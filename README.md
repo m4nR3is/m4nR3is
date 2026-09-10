@@ -18,7 +18,7 @@ Three.js · WebGL · GLSL · Data Visualization · Real-time Graphics
 Node.js · REST APIs · Capacitor · PostgreSQL
 
 **Currently exploring**  
-Generative AI · WebGPU · creative coding
+Generative AI · WebGPU · Creative coding
 
 ### Selected work
 
