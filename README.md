@@ -22,8 +22,8 @@ Generative AI · WebGPU · creative coding
 
 ### Selected work
 
-🌍 [**PlanetLive**](https://www.planet-live.fr) — Interactive 3D globe for geographic, historical & geopolitical data visualization  
-🎵 [**Audiografik**](https://www.audiografik.net) — Audio-reactive visualization app iOS and website with WebGL & GLSL  
+🌍 [**PlanetLive**](https://www.planet-live.fr) — AI-assisted interactive 3D globe for geographic, historical & geopolitical data exploration and country comparison  
+🎵 [**Audiografik**](https://www.audiografik.net) — Audio-reactive visualization for web & iOS, built with WebGL & GLSL  
 🎸 **RhythmTrainer** — Interactive rhythm training application
 
 ### About me
