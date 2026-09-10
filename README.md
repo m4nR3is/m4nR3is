@@ -1,10 +1,36 @@
 # Manuel Reismann
 
-Creative Developer & Senior Front-End Engineer
+### Creative Developer & Senior Front-End Engineer
 
-**React · TypeScript · WebGL · Three.js · Data Visualization**
+I build interactive web experiences at the intersection of **code, data, graphics and sound**.
 
-I build interactive web experiences at the intersection of
-code, data, graphics and sound.
+My background combines front-end engineering with creative development — from complex React applications to real-time data visualization, WebGL experiences and audio-reactive interfaces.
 
-🌐 [m4nu.net](https://m4nu.net)
+### What I work with
+
+**Front-end**  
+React · TypeScript · JavaScript · Next.js
+
+**Creative & Data**  
+Three.js · WebGL · GLSL · Data Visualization · Real-time Graphics
+
+**Beyond the browser**  
+Node.js · REST APIs · Capacitor · PostgreSQL
+
+**Currently exploring**  
+Generative AI · WebGPU · creative coding
+
+### Selected work
+
+🌍 **PlanetLive** — Real-time flight data visualization  
+🎵 **Audiografik** — Audio-reactive visualization with WebGL & GLSL  
+🎸 **RhythmTrainer** — Interactive rhythm training application
+
+### About me
+
+I'm particularly interested in projects where engineering meets **visualization, interaction, music, culture and creative technology**.
+
+Based in **Paris, France**.
+
+🌐 [Portfolio — m4nu.net](https://www.m4nu.net)  
+💼 [LinkedIn](https://www.linkedin.com/in/manuel-reismann-6446324)
