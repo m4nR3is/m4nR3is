@@ -24,22 +24,51 @@ Generative AI · WebGPU · Creative Coding
 
 ---
 
-### Selected work
+## Selected work
 
-<p align="center">
+### 🌍 PlanetLive
+
+<p>
   <a href="https://www.planet-live.fr">
-    <img src="./images/planetlive.jpg" width="49%" alt="PlanetLive">
+    <img src="./images/planetlive-01.jpg" width="49%" alt="PlanetLive interactive 3D globe">
   </a>
-  <a href="https://www.audiografik.net">
-    <img src="./images/audiografik.jpg" width="49%" alt="Audiografik">
+  <a href="https://www.planet-live.fr">
+    <img src="./images/planetlive-02.jpg" width="49%" alt="PlanetLive geographic data comparison">
   </a>
 </p>
 
-🌍 [**PlanetLive**](https://www.planet-live.fr) — AI-assisted interactive 3D globe for geographic, historical & geopolitical data exploration and country comparison
+**AI-assisted interactive 3D globe for geographic, historical & geopolitical data exploration and country comparison.**
 
-🎵 [**Audiografik**](https://www.audiografik.net) — Audio-reactive visualization for web & iOS, built with WebGL & GLSL
+Explore countries and world data through interactive cartography, visual comparisons and AI-assisted queries.
 
-🎸 **RhythmTrainer** — Interactive rhythm training application
+→ [**Explore PlanetLive**](https://www.planet-live.fr)
+
+---
+
+### 🎵 Audiografik
+
+<p>
+  <a href="https://www.audiografik.net">
+    <img src="./images/audiografik-01.jpg" width="49%" alt="Audiografik audio-reactive visualization">
+  </a>
+  <a href="https://www.audiografik.net">
+    <img src="./images/audiografik-02.jpg" width="49%" alt="Audiografik WebGL music visualization">
+  </a>
+</p>
+
+**Audio-reactive visualization for web & iOS, built with WebGL & GLSL.**
+
+An experimental music visualization experience combining real-time audio analysis, shaders and interactive graphics.
+
+→ [**Explore Audiografik**](https://www.audiografik.net)
+
+---
+
+### 🎸 RhythmTrainer
+
+**Interactive rhythm training application.**
+
+A music-focused application for practicing rhythm through interactive exercises.
 
 ---
 
