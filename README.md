@@ -45,22 +45,31 @@ Explore countries and world data through interactive cartography, visual compari
 
 ---
 
-### 🎵 Audiografik
+### 🎵 AudioGrafik 2.0
 
 <p>
-  <a href="https://www.audiografik.net">
-    <img src="./images/audiografik-01.jpg" width="49%" alt="Audiografik audio-reactive visualization">
+  <a href="https://www.audiografik.net/">
+    <img src="./images/audiografik-v2-fibonacci.jpg" width="49%" alt="AudioGrafik 2.0 — Fibonacci plants reacting to music">
   </a>
-  <a href="https://www.audiografik.net">
-    <img src="./images/audiografik-02.jpg" width="49%" alt="Audiografik WebGL music visualization">
+  <a href="https://www.audiografik.net/">
+    <img src="./images/audiografik-v2-rangoli.jpg" width="49%" alt="AudioGrafik 2.0 — Rangoli laser rays, arcs and geometric hatching">
   </a>
 </p>
 
-**Audio-reactive visualization for web & iOS, built with WebGL & GLSL.**
+<p>
+  <a href="https://www.audiografik.net/">
+    <img src="./images/audiografik-v2-architecture.jpg" width="49%" alt="AudioGrafik 2.0 — Generative architecture with the Comics effect">
+  </a>
+  <a href="https://www.audiografik.net/">
+    <img src="./images/audiografik-v2-lava.jpg" width="49%" alt="AudioGrafik 2.0 — Lava with Comics and curved glass effects">
+  </a>
+</p>
 
-An experimental music visualization experience combining real-time audio analysis, shaders and interactive graphics.
+**Real-time music visualizer for web, iPhone and iPad, built with WebGPU, WebGL2 and native UIKit controls on iOS.**
 
-→ [**Explore Audiografik**](https://www.audiografik.net)
+20 generative scenes and 20 combinable effects respond to percussion, melody and musical tension. Choose your visuals in the VJ workspace, or record them with sound from an imported audio file or microphone input.
+
+→ [**Explore AudioGrafik**](https://www.audiografik.net/)
 
 ---
 
